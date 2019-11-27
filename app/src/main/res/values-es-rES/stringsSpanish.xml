@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El TP Final</string>
+    <string name="booki">Libros</string>
+    <string name="welcome_back">bienvenido de vuelta</string>
+    <string name="login">El login</string>
+    <string name="email">El correo electrónico</string>
+    <string name="password">La contraseña</string>
+    <string name="sign_up">Inscribirse</string>
+</resources>

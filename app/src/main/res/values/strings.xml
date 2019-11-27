@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TP Certificatif</string>
+    <string name="booki">livre</string>
+    <string name="welcome_back">Bienvenue</string>
+    <string name="login">Authentification</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="sign_up">S\'enregister</string>
+    <string name="ajoutAlbumDb">Ajouter album a la bd</string>
+    <string name="addAlbumToBd">Ajout album bd</string>
+    <string name="title_hint">title</string>
+    <string name="genre">Genre</string>
+    <string name="artist">Artist</string>
+    <string name="nbTrack">Nombre de chanson</string>
+    <string name="btn_save">Enregister</string>
+    <string name="title_activity_see_all_album">SeeAllAlbumActivity</string>
+    <string name="user_info">Info Utilisateur</string>
+</resources>
